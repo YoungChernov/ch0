@@ -1378,7 +1378,7 @@ label ch4_exclusive_yuri:
     "How am I supposed to respond to that?"
     "Yuri leans in closer."
     "Is she leaning in to... kiss me?"
-    "She is for sure, I freeze up, not knowing what to do."
+    "She is, for sure. I freeze up, not knowing what to do."
     "My nerves getting the better of me."
     "But I don't even get a chance to do anything, as Yuri suddenly pulls back."
     show yuri 3bn zorder 2 at t11
@@ -1614,6 +1614,8 @@ label ch4_end_no:
         "I can talk to Yuri about what just happened another time."
         "I have to focus on helping Sayori for now. She needs me."
         "I keep wondering if I should be doing something more, or something different."
+        "My mind racing with all kinds of guesses about what is making Sayori suffer."
+        "All of them horrible."
         "I know these thoughts will continue to plague me until things are back to the way they were."
         "I'm going to give it everything I've got. I've got two important tasks.
         "Yuri will always be my dearest love."
