@@ -694,7 +694,7 @@ label ch4_end:
                     y "But lying to her, even to try to cheer her up by telling her what she wants to hear isn't the right choice."
                     y "That is what you're doing right?"
                     y "You don't really love her..."
-                    y "Right?."
+                    y "...Right?"
                     y "Of course not. I know you wouldn't betray me. You just want to help her."
                     y "Yeah..."
                     y "She needs to face the truth though, as difficult and bitter as it will be."
@@ -848,7 +848,7 @@ label ch4_main:
     window auto
     "You know what?"
     "Leave everything as it is."
-    "There is no point in checking Sayori. I'm sure she's fine."
+    "There is no point in checking on Sayori. I'm sure she's fine."
     "What was I thinking? That she was going to kill herself or something?"
     "I feel a chill down my spine as I say that for some reason..."
     "..."
